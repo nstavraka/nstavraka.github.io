@@ -1806,7 +1806,7 @@ body {
 }
 .cid-qB1JHHSthA P {
   color: #ffffff;
-  text-align: center;
+  text-align: left;
 }
 .cid-qB1JHGaqrC .navbar {
   padding: .5rem 0;
@@ -2196,10 +2196,10 @@ body {
 .cid-qB1KAwgnaQ {
   padding-top: 120px;
   padding-bottom: 135px;
-  background-image: url("../../../");
+  background-image: url("../../../assets/images/jumbotron-1920x1281.jpg");
 }
 .cid-qB1KAwgnaQ .mbr-text,
 .cid-qB1KAwgnaQ .mbr-section-btn {
   text-align: left;
-  color: #cc2952;
+  color: #6edc5a;
 }
